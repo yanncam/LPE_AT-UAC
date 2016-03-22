@@ -1,5 +1,5 @@
 # LPE_AT-UAC
-**Windows 7+ Local Privilege Escalation AT - BypassUAC
+Windows 7+ Local Privilege Escalation AT - BypassUAC
 
 atuac.bat content :
 
