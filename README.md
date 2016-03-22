@@ -1,6 +1,8 @@
 # LPE_AT-UAC
 Windows 7+ Local Privilege Escalation AT - BypassUAC
 
+How to open a local NT/SYSTEM prompt shell "cmd.exe" on Win7+ through the oldschool "at" method.
+
 atuac.bat content :
 
 ```shell
